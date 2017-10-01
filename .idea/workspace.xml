@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b6f1499-999d-419f-9ad5-a65301d8ccbe" name="Default" comment="This is first update for test!">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/console/controllers/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/randchat.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Vagrantfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/assets/AppAsset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/codeception.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/config/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/config/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/config/params.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/config/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/controllers/SiteController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/models/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/runtime/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/_data/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/_data/login_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/_output/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/_support/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/_support/FunctionalTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/_support/UnitTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/functional.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/functional/LoginCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/functional/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/unit.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/tests/unit/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/views/layouts/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/views/site/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/views/site/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/views/site/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/web/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/web/assets/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend.bak/web/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/assets/AppAsset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/codeception.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/config/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/config/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/config/params.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/config/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/controllers/SiteController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/models/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/runtime/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/_data/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/_data/login_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/_output/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/_support/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/_support/FunctionalTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/_support/UnitTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/functional.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/functional/LoginCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/functional/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/unit.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/tests/unit/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/views/layouts/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/views/site/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/views/site/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/views/site/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/web/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/web/assets/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/backend/web/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/codeception.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/codeception.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/config/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/config/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/config/params.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/config/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/fixtures/UserFixture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/mail/layouts/html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/mail/layouts/text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/mail/passwordResetToken-html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/mail/passwordResetToken-text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/models.bak/LoginForm.bak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/models.bak/User.bak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/tests/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/tests/_data/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/tests/_output/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/tests/_support/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/tests/_support/UnitTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/tests/unit.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/tests/unit/models/LoginFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/common/widgets/Alert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/console/config/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/console/config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/console/config/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/console/config/params.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/console/migrations/m130524_201442_init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/console/models/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/console/runtime/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/backend/config/main-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/backend/config/params-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/backend/config/test-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/backend/web/index-test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/backend/web/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/backend/web/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/common/config/main-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/common/config/params-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/common/config/test-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/console/config/main-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/console/config/params-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/frontend/config/main-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/frontend/config/params-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/frontend/config/test-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/frontend/web/index-test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/frontend/web/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/frontend/web/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/yii" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/yii_test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/dev/yii_test.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/backend/config/main-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/backend/config/params-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/backend/web/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/backend/web/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/common/config/main-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/common/config/params-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/console/config/main-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/console/config/params-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/frontend/config/main-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/frontend/config/params-local.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/frontend/web/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/frontend/web/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/environments/prod/yii" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/assets/AppAsset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/codeception.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/config/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/config/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/config/params.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/config/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/controllers/SiteController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/models/ContactForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/models/PasswordResetRequestForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/models/ResetPasswordForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/models/SignupForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/runtime/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/_data/login_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/_data/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/_output/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/_support/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/_support/FunctionalTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/_support/UnitTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/acceptance.suite.yml.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/acceptance/HomeCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/acceptance/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/functional.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/functional/AboutCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/functional/ContactCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/functional/HomeCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/functional/LoginCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/functional/SignupCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/functional/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/unit.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/unit/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/unit/models/ContactFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/unit/models/PasswordResetRequestFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/unit/models/ResetPasswordFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/tests/unit/models/SignupFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/layouts/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/site/about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/site/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/site/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/site/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/site/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/site/requestPasswordResetToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/site/resetPassword.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/views/site/signup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/web/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/web/assets/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend.bak/web/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/assets/AppAsset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/codeception.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/config/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/config/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/config/params.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/config/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/controllers/BaseController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/controllers/GetController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/controllers/SiteController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/models/ContactForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/models/Identity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/models/LoginForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/models/PasswordResetRequestForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/models/ResetPasswordForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/models/SignupForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/models/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/modules/v1/Module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/modules/v1/controllers/SiteController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/modules/v1/controllers/UserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/runtime/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/_data/login_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/_data/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/_output/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/_support/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/_support/FunctionalTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/_support/UnitTester.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/acceptance.suite.yml.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/acceptance/HomeCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/acceptance/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/functional.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/functional/AboutCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/functional/ContactCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/functional/HomeCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/functional/LoginCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/functional/SignupCest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/functional/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/unit.suite.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/unit/_bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/unit/models/ContactFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/unit/models/PasswordResetRequestFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/unit/models/ResetPasswordFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/tests/unit/models/SignupFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/layouts/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/site/about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/site/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/site/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/site/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/site/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/site/requestPasswordResetToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/site/resetPassword.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/views/site/signup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/web/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/web/assets/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/frontend/web/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/init" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/init.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/requirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vagrant/config/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vagrant/config/vagrant-local.example.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vagrant/nginx/app.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vagrant/nginx/log/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vagrant/provision/always-as-root.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vagrant/provision/once-as-root.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vagrant/provision/once-as-vagrant.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/yii.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/backend/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/frontend/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/frontend/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/vendor/angular/angular2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/vendor/angular/angular2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/vendor/angular/http.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/vendor/angular/router.min.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/frontend/modules/v1/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="101" column="68" lean-forward="false" selection-start-line="101" selection-start-column="68" selection-end-line="101" selection-end-column="68" />
+              <folding>
+                <element signature="e#51#59#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/frontend/modules/v1/controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+              <folding>
+                <element signature="e#133#173#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryParamAuth.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/filters/auth/QueryParamAuth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/web/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="266" column="20" lean-forward="false" selection-start-line="266" selection-start-column="20" selection-end-line="266" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdentityInterface.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/web/IdentityInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="68" column="27" lean-forward="false" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Identity.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/frontend/models/Identity.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Security.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/base/Security.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="605" column="20" lean-forward="false" selection-start-line="605" selection-start-column="20" selection-end-line="605" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/common/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/frontend/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="50" column="56" lean-forward="false" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/frontend/controllers/BaseController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="e#122#130#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>validatePassword</find>
+      <find>getUser</find>
+      <find>ac</find>
+      <find>User</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Identity</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jassy &lt;jassybao@163.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/frontend/views/site/login.php" />
+        <option value="$PROJECT_DIR$/api/vendor/yiisoft/yii2/base/Model.php" />
+        <option value="$PROJECT_DIR$/api/common/models.bak/User.php" />
+        <option value="$PROJECT_DIR$/api/common/models.bak/LoginForm.php" />
+        <option value="$PROJECT_DIR$/api/frontend/models/User.php" />
+        <option value="$PROJECT_DIR$/api/frontend/models/PasswordResetRequestForm.php" />
+        <option value="$PROJECT_DIR$/api/common/config/main-local.php" />
+        <option value="$PROJECT_DIR$/api/common/config/params.php" />
+        <option value="$PROJECT_DIR$/api/frontend/models/ResetPasswordForm.php" />
+        <option value="$PROJECT_DIR$/api/frontend/models/LoginForm.php" />
+        <option value="$PROJECT_DIR$/api/frontend/controllers/GetController.php" />
+        <option value="$PROJECT_DIR$/api/frontend/web/index.php" />
+        <option value="$PROJECT_DIR$/api/composer.json" />
+        <option value="$PROJECT_DIR$/api/frontend/controllers/BaseController.php" />
+        <option value="$PROJECT_DIR$/api/frontend/config/main.php" />
+        <option value="$PROJECT_DIR$/api/frontend/modules/v1/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/api/frontend/modules/v1/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/api/vendor/yiisoft/yii2/filters/auth/QueryParamAuth.php" />
+        <option value="$PROJECT_DIR$/api/frontend/models/Identity.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models.bak" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randchat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../Node.js/node" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\service\NetApp\randchat\api\frontend\controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b6f1499-999d-419f-9ad5-a65301d8ccbe" name="Default" comment="" />
+      <created>1506830171278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506830171278</updated>
+      <workItem from="1506830174137" duration="23282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23282000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is first update for test!" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is first update for test!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/db/BaseActiveRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="104" column="27" lean-forward="false" selection-start-line="104" selection-start-column="27" selection-end-line="104" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/base/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/base/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="336" column="20" lean-forward="false" selection-start-line="336" selection-start-column="20" selection-end-line="336" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="171" column="34" lean-forward="false" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/common/models.bak/LoginForm.bak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/common/models.bak/User.bak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/views/site/requestPasswordResetToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="81" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/models/PasswordResetRequestForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding>
+            <element signature="e#34#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="52" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/common/config/params-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/common/config/params.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/models/ResetPasswordForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="e#34#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/views/site/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/models/LoginForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+          <folding>
+            <element signature="e#35#43#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/controllers/GetController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#122#130#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/common/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/modules/v1/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="101" column="68" lean-forward="false" selection-start-line="101" selection-start-column="68" selection-end-line="101" selection-end-column="68" />
+          <folding>
+            <element signature="e#51#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="50" column="56" lean-forward="false" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/web/IdentityInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="68" column="27" lean-forward="false" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/web/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="266" column="20" lean-forward="false" selection-start-line="266" selection-start-column="20" selection-end-line="266" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/filters/auth/QueryParamAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/vendor/yiisoft/yii2/base/Security.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="605" column="20" lean-forward="false" selection-start-line="605" selection-start-column="20" selection-end-line="605" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/models/Identity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/frontend/modules/v1/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding>
+            <element signature="e#133#173#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
